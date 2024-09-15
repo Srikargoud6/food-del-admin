@@ -1,5 +1,5 @@
 .sidebar {
-  width: 20%;
+  width: 15%;
   border-right: 1px solid grey;
   min-height: 100vh;
 }
@@ -9,9 +9,12 @@
   border: 1px solid grey;
   padding: 0.2rem 1rem 0rem 1rem;
   margin: 0.8rem 0;
+  text-decoration: none !important;
+  color: black;
 }
-.sidebar-items:hover {
-  background-color: #fa846f;
+
+.sidebar-items.active {
+  background-color: #fdac9e;
 }
 
 .add-items {
