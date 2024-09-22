@@ -1,0 +1,23 @@
+.add-page {
+  margin: 2rem 0 0 5rem;
+}
+
+.upload-img {
+  margin: 0 0 0.5rem 0;
+  cursor: pointer;
+  height: 6rem;
+  width: 8rem;
+}
+
+.desc {
+  margin: 0.5rem 0;
+}
+
+form label {
+  margin-bottom: 0.2rem;
+}
+
+form button {
+  width: 8rem;
+  margin-top: 0.5rem;
+}
